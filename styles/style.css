@@ -20,7 +20,7 @@ strong{
    color: var(--cor-terciaria);
 }
 .cabecalho{
-    padding: 2% 0% 0% 25%;
+    padding: 2% 0% 0% 0%;
 }
 .cabecalho_menu{
     display: flex;
@@ -39,7 +39,6 @@ strong{
     align-items: center;
     justify-content: space-between;
     gap: 82px;
-
 }
 .apresentacao__conteudo{
     width: 615px;
