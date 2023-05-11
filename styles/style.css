@@ -20,7 +20,7 @@ strong{
    color: var(--cor-terciaria);
 }
 .cabecalho{
-    padding: 2% 0% 0% 0%;
+    padding: 1% 0% 0% 0%;
 }
 .cabecalho_menu{
     display: flex;
@@ -87,7 +87,7 @@ strong{
 .apresentacao__links__link:hover{
     background-color: var(--cor-terciaria);
 }
-.Final_text{
+.final_text{
     color: var(--cor-primaria);
     background-color:var(--cor-terciaria);
     padding: 24px;
@@ -96,19 +96,19 @@ strong{
     font-size: 1.5rem;
     font-weight: 400;
 }
-    @media (max-width: 1200px) {
+    @media (max-width: 1200px){
         .cabecalho {
             padding: 1%;
         }
     }
-        .cabecalho_menu {
+        .cabecalho_menu{
            justify-content: center;
         }
         .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
     }
-    .apresentacao__conteudo {
+    .apresentacao__conteudo{
         width: auto;
     }
 
